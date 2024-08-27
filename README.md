@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinly G. Tolentino</h1>
 
-<h3>I am a Computer Science student. I chose this course not because I love coding, but because I love computers. I once tried participating in a PC assembling and disassembling contest but backed out because I didn’t find it enjoyable. I realized that I am more interested in computer aesthetics rather than hardware itself. While I don't consider myself particularly talented, I can manage a little bit of everything. I can dance but wouldn’t attempt to sing. I can draw, though only with references.</h3>
+<h3>I am a Computer Science student. I chose this course not because I love coding, but because I love computers. I once tried participating in a PC assembling and disassembling contest but backed out because I didn’t find it enjoyable. I realized that I am more interested in computer aesthetics rather than hardware itself. Also, while I don't consider myself particularly talented, I can manage a little bit of everything. I can dance but wouldn’t attempt to sing. I can draw, though only with references (like youtube or pinterest).</h3>
 
 <h3> I don't have any personal projects, but I've worked on projects from my CMSC courses, such as a game called "Grow and Conquer," where players collect fragments to increase their attack points and defeat monsters and other players, and a mobile slambook app named "Ribbit". I am familiar with programming languages like Python, C, and Dart which I learned from my previous CMSC courses. </h3>
 
